@@ -36,4 +36,19 @@ Run the provided SQL file to create the database:
 ```sql
 SOURCE hr-schema-mysql v2.0.sql;
 
+### 👤 Author
+
+**Nitish Kumar**  
+B.Tech CSE (AI & ML)  
+Aspiring Data Scientist & Web Developer  
+
+📌 GitHub: https://github.com/Nitishkumar1412 
+📌 LinkedIn: https://www.linkedin.com/in/nitish-kumar-2908sv1412/
+
+
+## 🙏 Thank You
+Thank you for taking the time to explore this Repository.  
+If you find it useful or interesting, feel free to ⭐ star the repository and share feedback.  
+Your support and suggestions are always appreciated!
+
 

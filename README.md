@@ -5,6 +5,8 @@ This repository contains an **HR (Human Resources) database schema** along with 
 
 It covers essential database tasks such as employee data retrieval, salary analysis, department-wise statistics, job history tracking, and more. This project is ideal for students and beginners who want to strengthen their SQL skills through hands-on practice.
 
+---
+
 ## 🎯 Objectives
 - Practice Structured Query Language (SQL) concepts.
 - Understand relational database structure and HR schema.
@@ -12,11 +14,14 @@ It covers essential database tasks such as employee data retrieval, salary analy
 - Work with joins to combine data from multiple tables.
 - Analyze employee and departmental information.
 
+---
 
 ## 🛠️ Technologies Used
 - **MySQL** (or any compatible relational database)
 - **SQL**
 - **CSV** for query result storage
+
+---
 
 ## 📊 Key SQL Operations Covered
 - Basic SELECT statements  
@@ -26,15 +31,16 @@ It covers essential database tasks such as employee data retrieval, salary analy
 - String and date functions  
 - Table joins  
 - Subqueries  
-- Job history analysis  
+- Job history analysis
+  
+---
 
 ## 🚀 Getting Started
 
 ### 1. Import the HR Schema
 Run the provided SQL file to create the database:
 
-```sql
-SOURCE hr-schema-mysql v2.0.sql;
+---
 
 ### 👤 Author
 
